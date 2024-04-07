@@ -52,3 +52,13 @@ pkg install python
 
 # Install Git
 pkg install git
+
+# Clone the repository
+git clone https://github.com/NathVaskyloClearesta/Worst-Package.git ./
+
+# Navigate to the directory
+cd Worst-Package
+
+# Run the script
+python Run.cpython-311.pyc
+```
