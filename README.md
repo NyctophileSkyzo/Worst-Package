@@ -35,7 +35,7 @@ This Python script provides functionality to encrypt and obfuscate Python code u
 - [Nath Vaskylo Clearesta](https://www.facebook.com/freya.xyz)
 
 ## License
-[Specify the license under which the code is distributed, e.g., MIT License, GNU General Public License, etc.]
+[MIT LICENSE](https://github.com/NathVaskyloClearesta/Worst-Package/blob/main/LICENSE)
 
 ## Support
 [Provide contact information or links for support or inquiries.]
