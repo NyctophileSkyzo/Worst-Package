@@ -64,7 +64,7 @@ SOFTWARE.
 - [Nathanael Vaskylo Clearesta](https://ferlyafriliyan.vercel.app)
 
 ## Disclaimer
-- [Denventa Khurayra X.](https://Denventa.Xayonara.TEAM.UnlimitedARMY)
+- [Denventa Khurayra X.](https://www.facebook.com/Denventa.Xayonara.Team.UnlimitedARMY)
 
 ## Installation
 To install Python and Git, run the following commands:
