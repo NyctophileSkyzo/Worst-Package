@@ -61,10 +61,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Support
-- [X]
+- [Nathanael Vaskylo Clearesta](https://ferlyafriliyan.vercel.app)
 
 ## Disclaimer
-- [X]
+- [Denventa Khurayra X.](https://Denventa.Xayonara.TEAM.UnlimitedARMY)
 
 ## Installation
 To install Python and Git, run the following commands:
