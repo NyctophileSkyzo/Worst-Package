@@ -54,7 +54,7 @@ pkg install python
 pkg install git
 
 # Clone the repository
-git clone https://github.com/NathVaskyloClearesta/Worst-Package.git ./
+git clone https://github.com/NathVaskyloClearesta/Worst-Package.git
 
 # Navigate to the directory
 cd Worst-Package
