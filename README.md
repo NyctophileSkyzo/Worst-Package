@@ -35,7 +35,7 @@ This Python script provides functionality to encrypt and obfuscate Python code u
 - [Nath Vaskylo Clearesta](https://www.facebook.com/freya.xyz)
 
 ## License
-[MIT License](https://github.com/NathVaskyloClearesta/Worst-Package/blob/main/LICENSE)
+[MIT License](https://github.com/Nyctophile/Worst-Package/blob/main/LICENSE)
 
 # - MIT License
 - MIT License
@@ -77,11 +77,11 @@ pkg install python
 pkg install git
 
 # Clone the repository
-git clone https://github.com/NathVaskyloClearesta/Worst-Package.git
+git clone https://github.com/Nyctophile/Worst-Package.git
 
 # Navigate to the directory
 cd Worst-Package
 
 # Run the script
-python Run.cpython-311.pyc
+python Worst-packed.cpython-311.pyc
 ```
